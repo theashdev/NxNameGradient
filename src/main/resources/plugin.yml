@@ -1,0 +1,25 @@
+name: NxNameGradient
+main: com.nexorastudios.nxnamegradient.NxNameGradientPlugin
+version: 1.2.0
+api-version: "1.21"
+author: Nexora Studios
+softdepend: [PlaceholderAPI, WorldGuard]
+
+commands:
+  nxnamegradient:
+    description: NxNameGradient command
+    aliases: [namegradient, ng, gradient, gradients, nxng]
+    usage: /nxnamegradient
+
+permissions:
+  nxnamegradient.gui:
+    default: true
+  nxnamegradient.use:
+    default: true
+  nxnamegradient.admin:
+    default: op
+  nxnamegradient.reload:
+    default: op
+  nxnamegradient.help:
+    description: Allows viewing /nxnamegradient help
+    default: op

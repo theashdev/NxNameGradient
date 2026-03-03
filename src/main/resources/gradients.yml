@@ -1,0 +1,127 @@
+gradients:
+  '1':
+    id: nexora
+    name: Nexora Gradient
+    permission: nxnamegradient.color.nexora
+    animated: false
+    speed: 5
+    colors:
+      - '#001CFF'
+      - '#9F00FF'
+  '2':
+    id: ocean
+    name: Ocean Gradient
+    permission: nxnamegradient.color.ocean
+    animated: false
+    speed: 5
+    colors:
+      - '#0098FF'
+      - '#6AFFE5'
+  '3':
+    id: Tree
+    name: Tree Gradient
+    permission: nxnamegradient.color.tree
+    animated: false
+    speed: 5
+    colors:
+      - '#22FF00'
+      - '#D6FF5E'
+  '4':
+    id: Fire
+    name: Fire Gradient
+    permission: nxnamegradient.color.fire
+    animated: false
+    speed: 5
+    colors:
+      - '#FF7C00'
+      - '#FFCF00'
+  '5':
+    id: ice
+    name: Ice Gradient
+    permission: nxnamegradient.color.ice
+    animated: false
+    speed: 5
+    colors:
+      - '#29FFFF'
+      - '#BEF7FF'
+  '6':
+    id: ruby
+    name: Ruby Gradient
+    permission: nxnamegradient.color.ruby
+    animated: false
+    speed: 5
+    colors:
+      - '#FF0000'
+      - '#FF712D'
+  '7':
+    id: cherry
+    name: Cherry Blossom Gradient
+    permission: nxnamegradient.color.cherry
+    animated: false
+    speed: 5
+    colors:
+      - '#F272FF'
+      - '#E700FF'
+  '8':
+    id: blood
+    name: Blood Gradient
+    permission: nxnamegradient.color.blood
+    animated: false
+    speed: 5
+    colors:
+      - '#FF0000'
+      - '#980000'
+  '9':
+    id: rich
+    name: Rich Gradient
+    permission: nxnamegradient.color.rich
+    animated: false
+    speed: 5
+    colors:
+      - '#ffda00'
+      - '#00b6ff'
+  '10':
+    id: pro
+    name: Pro Gradient
+    permission: nxnamegradient.color.pro
+    animated: false
+    speed: 5
+    colors:
+      - '#006dff'
+      - '#ff00f7'
+  '11':
+    id: diamond
+    name: Diamond Gradient
+    permission: nxnamegradient.color.diamond
+    animated: false
+    speed: 5
+    colors:
+      - '#00abff'
+      - '#00ff3c'
+  '12':
+    id: slay
+    name: Slay Gradient
+    permission: nxnamegradient.color.slay
+    animated: false
+    speed: 5
+    colors:
+      - '#ff00e2'
+      - '#00b6ff'
+  '13':
+    id: lordgradient
+    name: Lord Gradient
+    permission: nxnamegradient.color.lordgradient
+    animated: false
+    speed: 5
+    colors:
+      - '#212B22'
+      - '#430A0A'
+  '14':
+    id: kinggradient
+    name: King Gradient
+    permission: nxnamegradient.color.kinggradient
+    animated: false
+    speed: 5
+    colors:
+      - '#292F2C'
+      - '#5A6E3C'
