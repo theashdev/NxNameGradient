@@ -215,3 +215,4 @@ public final class GradientGui implements InventoryHolder {
     public Inventory getInventory() {
         return inv;
     }
+}
